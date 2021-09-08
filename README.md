@@ -56,6 +56,10 @@ MATLAB神经网络原理与实例精解
 数理统计学简史
 * [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/%E6%95%B0%E5%AD%A6%E5%8F%B2/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%AD%A6%E7%AE%80%E5%8F%B2.pdf)
 
+#### 4.  代数
+MIT-Algebra-Note
+* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/algebra/MIT-algebra-notes.pdf)
+
 ### 二、  科普类
 人工智能
 * [PDF下载地址](https://code.aliyun.com/SnailBernoulli/popularization-of-science/blob/master/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%20.pdf)

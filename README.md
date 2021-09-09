@@ -187,6 +187,12 @@ Effective C++
 STL源码剖析
 * [PDF下载地址](https://code.aliyun.com/SnailBernoulli/computer/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-C++/stl%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90.pdf)
 
+Google C++ style guide
+* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/computer/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-C++/Google%20C++%20Style%20Guide.pdf)
+
+Google C++ style guide（中文版）
+* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/computer/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-C++/Google%20C++%20Style%20Guide%20(%E4%B8%AD%E6%96%87%E7%89%88).pdf)
+
 ##### 3.9.2  python
 fluent Python(中文版+英文版+cookbook)
 * [PDF地址](https://code.aliyun.com/SnailBernoulli/computer/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-python)
@@ -248,4 +254,3 @@ planning algorthm（规划算法）
 
 基于视觉的机器人导航
 * [PDF下载地址](https://code.aliyun.com/SnailBernoulli/robotics/blob/master/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6-%E8%A7%84%E5%88%92%E7%AE%97%E6%B3%95/%E5%9F%BA%E4%BA%8E%E8%A7%86%E8%A7%89%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AF%BC%E8%88%AA.pdf)
-

@@ -70,6 +70,33 @@ MIT-Algebra-Note
 离散数学及其应用
 * [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%95%B0%E5%AD%A6/637970%20%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8%20%20%E5%8E%9F%E4%B9%A6%E7%AC%AC7%E7%89%88%20,%EF%BC%88%E7%BE%8E%EF%BC%89KENNETH%20H.ROSEN%E8%91%97%20,P793.pdf)
 
+#### 7.  应用数学
+
+##### 7.1  统计学
+统计学习方法-李航
+* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/%E6%95%B0%E5%AD%A6-%E5%BA%94%E7%94%A8%E6%95%B0%E5%AD%A6/%E6%95%B0%E5%AD%A6-%E5%BA%94%E7%94%A8%E6%95%B0%E5%AD%A6-%E7%BB%9F%E8%AE%A1%E5%AD%A6/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95(%E6%9D%8E%E8%88%AA).pdf)
+
+普林斯顿概率论读本（中文版）
+* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/%E6%95%B0%E5%AD%A6-%E5%BA%94%E7%94%A8%E6%95%B0%E5%AD%A6/%E6%95%B0%E5%AD%A6-%E5%BA%94%E7%94%A8%E6%95%B0%E5%AD%A6-%E7%BB%9F%E8%AE%A1%E5%AD%A6/%E3%80%8A%E6%99%AE%E6%9E%97%E6%96%AF%E9%A1%BF%E6%A6%82%E7%8E%87%E8%AE%BA%E8%AF%BB%E6%9C%AC%E3%80%8B%E4%B8%AD%E6%96%87PDF.pdf)
+
+普林斯顿概率论读本（英文版）
+* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/%E6%95%B0%E5%AD%A6-%E5%BA%94%E7%94%A8%E6%95%B0%E5%AD%A6/%E6%95%B0%E5%AD%A6-%E5%BA%94%E7%94%A8%E6%95%B0%E5%AD%A6-%E7%BB%9F%E8%AE%A1%E5%AD%A6/%E3%80%8AThe%20Probability%20Lifesaver%20-%20All%20the%20tools%20you%20need%20to%20understand%20chance%20by%E3%80%8B.pdf)
+
+##### 7.1  优化
+
+凸优化
+* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/%E6%95%B0%E5%AD%A6-%E5%BA%94%E7%94%A8%E6%95%B0%E5%AD%A6/%E6%95%B0%E5%AD%A6-%E5%BA%94%E7%94%A8%E6%95%B0%E5%AD%A6-%E7%BB%9F%E8%AE%A1%E5%AD%A6/%E3%80%8AThe%20Probability%20Lifesaver%20-%20All%20the%20tools%20you%20need%20to%20understand%20chance%20by%E3%80%8B.pdf)
+
+最优化方法及MATLAB程序设计-马昌凤
+* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/%E6%95%B0%E5%AD%A6-%E5%BA%94%E7%94%A8%E6%95%B0%E5%AD%A6/%E6%95%B0%E5%AD%A6-%E5%BA%94%E7%94%A8%E6%95%B0%E5%AD%A6-%E6%9C%80%E4%BC%98%E5%8C%96/%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95%E5%8F%8A%E5%85%B6Matlab%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%EF%BC%88%E9%A9%AC%E6%98%8C%E5%87%A4%EF%BC%89.pdf)
+
+最优化方法及其应用（郭科、陈聆、魏友华）   
+* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/%E6%95%B0%E5%AD%A6-%E5%BA%94%E7%94%A8%E6%95%B0%E5%AD%A6/%E6%95%B0%E5%AD%A6-%E5%BA%94%E7%94%A8%E6%95%B0%E5%AD%A6-%E6%9C%80%E4%BC%98%E5%8C%96/%E6%9C%80%E4%BC%98%E5%8C%96%E7%90%86%E8%AE%BA%E4%B8%8E%E7%AE%97%E6%B3%95200707.pdf)
+* ps：个人更推崇这本
+
+最优化理论与算法（陈宝林）
+* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/%E6%95%B0%E5%AD%A6-%E5%BA%94%E7%94%A8%E6%95%B0%E5%AD%A6/%E6%95%B0%E5%AD%A6-%E5%BA%94%E7%94%A8%E6%95%B0%E5%AD%A6-%E6%9C%80%E4%BC%98%E5%8C%96/%E6%9C%80%E4%BC%98%E5%8C%96%E7%90%86%E8%AE%BA%E4%B8%8E%E7%AE%97%E6%B3%95_%E9%99%88%E5%AE%9D%E6%9E%97.pdf)
+
 ### 二、  科普类
 人工智能
 * [PDF下载地址](https://code.aliyun.com/SnailBernoulli/popularization-of-science/blob/master/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%20.pdf)

@@ -82,7 +82,7 @@ MIT-Algebra-Note
 普林斯顿概率论读本（英文版）
 * [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/%E6%95%B0%E5%AD%A6-%E5%BA%94%E7%94%A8%E6%95%B0%E5%AD%A6/%E6%95%B0%E5%AD%A6-%E5%BA%94%E7%94%A8%E6%95%B0%E5%AD%A6-%E7%BB%9F%E8%AE%A1%E5%AD%A6/%E3%80%8AThe%20Probability%20Lifesaver%20-%20All%20the%20tools%20you%20need%20to%20understand%20chance%20by%E3%80%8B.pdf)
 
-##### 7.1  优化
+##### 7.2  优化
 
 凸优化
 * [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/%E6%95%B0%E5%AD%A6-%E5%BA%94%E7%94%A8%E6%95%B0%E5%AD%A6/%E6%95%B0%E5%AD%A6-%E5%BA%94%E7%94%A8%E6%95%B0%E5%AD%A6-%E7%BB%9F%E8%AE%A1%E5%AD%A6/%E3%80%8AThe%20Probability%20Lifesaver%20-%20All%20the%20tools%20you%20need%20to%20understand%20chance%20by%E3%80%8B.pdf)
@@ -129,11 +129,13 @@ MIT-Algebra-Note
 
 #### 3.1  计算机程序设计艺术（TAOCP中文版）
 
-计算机程序设计艺术上中下三部曲
+计算机程序设计艺术（TAOCP）
 * [三部曲PDF位置](https://code.aliyun.com/SnailBernoulli/computer/tree/master/TAOCP%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88Donald%20Knuth%EF%BC%89)
+* ps：本人偶像Donald Knuth（中文名高德纳或唐纳德——无神论的IT行业里,唯一的神）教授的巨作。因为实在太崇拜了，所以强烈安利一波。如果你知道时间/空间复杂度中的大O表示法（评价算法性能），那恭喜你已经和高德纳有了接触；如果你刚好又知道字符串中模式匹配KMP算法~恭喜，你又遇到了，KMP中的K就代表Knuth；如果你还知道红黑树，那巧了，Donald Knuth又是发明人之一。如果以上没接触过，你总得编辑过公式吧？LATEX的首创者还是Donald Kunth。~~~~~~~
 
 具体数学中文版
 * [PDF下载地址](https://code.aliyun.com/SnailBernoulli/computer/blob/master/TAOCP%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88Donald%20Knuth%EF%BC%89/%E5%85%B7%E4%BD%93%E6%95%B0%E5%AD%A6%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
+* ps：《具体数学》为TAOCP的入门基础。
 
 具体数学英文版
 * [PDF下载地址](https://code.aliyun.com/SnailBernoulli/computer/blob/master/TAOCP%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88Donald%20Knuth%EF%BC%89/%E5%85%B7%E4%BD%93%E6%95%B0%E5%AD%A6%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89%E8%8B%B1%E6%96%87%E7%89%88.pdf)

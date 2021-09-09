@@ -60,6 +60,13 @@ MATLAB神经网络原理与实例精解
 MIT-Algebra-Note
 * [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/algebra/MIT-algebra-notes.pdf)
 
+#### 6.  计算机数学
+图论
+* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%95%B0%E5%AD%A6/%E5%9B%BE%E8%AE%BA.pdf)
+
+离散数学及其应用
+* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%95%B0%E5%AD%A6/637970%20%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8%20%20%E5%8E%9F%E4%B9%A6%E7%AC%AC7%E7%89%88%20,%EF%BC%88%E7%BE%8E%EF%BC%89KENNETH%20H.ROSEN%E8%91%97%20,P793.pdf)
+
 ### 二、  科普类
 人工智能
 * [PDF下载地址](https://code.aliyun.com/SnailBernoulli/popularization-of-science/blob/master/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%20.pdf)

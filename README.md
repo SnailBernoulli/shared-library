@@ -6,13 +6,13 @@
 
 王桓宇  邮箱：snail10150824@gmail.com（欢迎优质资源分享）
 
-## 图书管藏书目录 （86本）
+## 图书管藏书目录 （97本）
 
-### 一、  数学类 （24本）
+### 一、  数学类 （35本）
 
-#### 1.  基础数学 （5本）
+#### 1.  基础数学 （7本）
 
-##### 1.1  数学分析 （4本）
+##### 1.1  数学分析 （6本）
 普林斯顿微积分读本英文版
 * [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/%E6%95%B0%E5%AD%A6-%E5%9F%BA%E7%A1%80%E6%95%B0%E5%AD%A6/%E6%95%B0%E5%AD%A6-%E5%9F%BA%E7%A1%80%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E3%80%8AThe%20Calculus%20Lifesaver_%20All%20the%20Tools%20You%20Need%20to%20Excel%20at%20Calculus%E3%80%8B.pdf)
 
@@ -23,7 +23,13 @@
 * [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/%E6%95%B0%E5%AD%A6-%E5%9F%BA%E7%A1%80%E6%95%B0%E5%AD%A6/%E6%95%B0%E5%AD%A6-%E5%9F%BA%E7%A1%80%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E5%BE%AE%E7%A7%AF%E5%88%86%E7%9A%84%E5%8E%86%E7%A8%8B%EF%BC%9A%E4%BB%8E%E7%89%9B%E9%A1%BF%E5%88%B0%E5%8B%92%E8%B4%9D%E6%A0%BC.pdf)
 
 托马斯微积分中文版
-* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/%E6%95%B0%E5%AD%A6-%E5%9F%BA%E7%A1%80%E6%95%B0%E5%AD%A6/%E6%95%B0%E5%AD%A6-%E5%9F%BA%E7%A1%80%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%89%98%E9%A9%AC%E6%96%AF%E5%BE%AE%E7%A7%AF%E5%88%86.pdf)
+* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/%E6%95%B0%E5%AD%A6-%E5%9F%BA%E7%A1%80%E6%95%B0%E5%AD%A6/%E6%95%B0%E5%AD%A6-%E5%9F%BA%E7%A1%80%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%89%98%E9%A9%AC%E6%96%AF%E5%BE%AE%E7%A7%AF%E5%88%86%EF%BC%88%E7%AC%AC%E5%8D%81%E7%89%88%EF%BC%89.pdf)
+
+数学分析（卓里奇-第七版-第一卷）
+* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/%E6%95%B0%E5%AD%A6-%E5%9F%BA%E7%A1%80%E6%95%B0%E5%AD%A6/%E6%95%B0%E5%AD%A6-%E5%9F%BA%E7%A1%80%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%EF%BC%88%E7%AC%AC%E4%B8%83%E7%89%88%EF%BC%89%20by%20%E5%8D%93%E9%87%8C%E5%A5%87%20(%E7%AC%AC%E4%B8%80%E5%8D%B7)%20.pdf)
+
+数学分析（卓里奇-第七版-第二卷）
+* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/%E6%95%B0%E5%AD%A6-%E5%9F%BA%E7%A1%80%E6%95%B0%E5%AD%A6/%E6%95%B0%E5%AD%A6-%E5%9F%BA%E7%A1%80%E6%95%B0%E5%AD%A6-%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%EF%BC%88%E7%AC%AC%E4%B8%83%E7%89%88%EF%BC%89%20by%20%E5%8D%93%E9%87%8C%E5%A5%87%20(%E7%AC%AC%E4%BA%8C%E5%8D%B7).pdf)
 
 ##### 1.2  数字逻辑与数学基础 （1本）
 基础集合论
@@ -56,12 +62,37 @@ MATLAB神经网络原理与实例精解
 数理统计学简史
 * [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/%E6%95%B0%E5%AD%A6%E5%8F%B2/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%AD%A6%E7%AE%80%E5%8F%B2.pdf)
 
-#### 5.  代数 （2本）
+#### 5.  代数 （10本）
 MIT-Algebra-Note
 * [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/algebra/MIT-algebra-notes.pdf)
 
 矩阵论
 * [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/algebra/%E7%9F%A9%E9%98%B5%E8%AE%BA.pdf)
+
+Introduction to Linear Algebra by Gilbert Strang 
+* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/algebra/Introduction%20to%20Linear%20Algebra%20by%20Gilbert%20Strang%20.pdf)
+
+Linear Algebra and Its Applications (4ed) by Gilbert Strang 
+* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/algebra/Linear%20Algebra%20and%20Its%20Applications%20(4ed)%20by%20Gilbert%20Strang%20.pdf)
+
+程序员的数学3线性代数
+* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/algebra/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E5%AD%A63%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0.pdf)
+
+线性代数应该这样学
+* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/algebra/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%BA%94%E8%AF%A5%E8%BF%99%E6%A0%B7%E5%AD%A6.pdf)
+* ps：国内线性代数中不可多得的好书，我的向量空间的知识便是在这里学的
+
+线性代数的几何意义--图解线性代数
+* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/algebra/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E7%9A%84%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89--%E5%9B%BE%E8%A7%A3%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0.pdf)
+
+高等代数 
+* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/algebra/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0.pdf)
+
+高等代数 邱维声（上册）
+* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/algebra/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0(%E4%B8%8A%E5%86%8C)%20%20%E4%B8%98%E7%BB%B4%E5%A3%B0%20.pdf)
+
+高等代数 邱维声（下册）
+* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/algebra/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0%EF%BC%88%E4%B8%8B%E5%86%8C)%20%E4%B8%98%E7%BB%B4%E5%A3%B0.pdf)
 
 #### 6.  计算机数学 （2本）
 图论
@@ -70,7 +101,7 @@ MIT-Algebra-Note
 离散数学及其应用
 * [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%95%B0%E5%AD%A6/637970%20%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8%20%20%E5%8E%9F%E4%B9%A6%E7%AC%AC7%E7%89%88%20,%EF%BC%88%E7%BE%8E%EF%BC%89KENNETH%20H.ROSEN%E8%91%97%20,P793.pdf)
 
-#### 7.  应用数学 （7本）
+#### 7.  应用数学 （8本）
 
 ##### 7.1  统计学 （3本）
 统计学习方法-李航
@@ -96,6 +127,10 @@ MIT-Algebra-Note
 
 最优化理论与算法（陈宝林）
 * [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/%E6%95%B0%E5%AD%A6-%E5%BA%94%E7%94%A8%E6%95%B0%E5%AD%A6/%E6%95%B0%E5%AD%A6-%E5%BA%94%E7%94%A8%E6%95%B0%E5%AD%A6-%E6%9C%80%E4%BC%98%E5%8C%96/%E6%9C%80%E4%BC%98%E5%8C%96%E7%90%86%E8%AE%BA%E4%B8%8E%E7%AE%97%E6%B3%95_%E9%99%88%E5%AE%9D%E6%9E%97.pdf)
+
+##### 7.2  拓扑学 （1本）
+拓扑学
+* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/%E6%95%B0%E5%AD%A6-%E5%BA%94%E7%94%A8%E6%95%B0%E5%AD%A6/%E6%95%B0%E5%AD%A6-%E5%BA%94%E7%94%A8%E6%95%B0%E5%AD%A6-%E6%8B%93%E6%89%91%E5%AD%A6/%E6%8B%93%E6%89%91%E5%AD%A6%20%E5%8E%9F%E4%B9%A6%E7%AC%AC2%E7%89%88.pdf)
 
 ### 二、  科普类 （9本）
 人工智能

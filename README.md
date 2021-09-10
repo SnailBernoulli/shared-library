@@ -92,7 +92,7 @@ Linear Algebra and Its Applications (4ed) by Gilbert Strang
 * [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/algebra/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0(%E4%B8%8A%E5%86%8C)%20%20%E4%B8%98%E7%BB%B4%E5%A3%B0%20.pdf)
 
 高等代数 邱维声（下册）
-* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/algebra/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0%EF%BC%88%E4%B8%8B%E5%86%8C)%20%E4%B8%98%E7%BB%B4%E5%A3%B0.pdf)
+* [PDF下载地址](https://code.aliyun.com/SnailBernoulli/mathematics/blob/master/algebra/%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B0(%E4%B8%8B%E5%86%8C)%20%20%E4%B8%98%E7%BB%B4%E5%A3%B0%20.pdf)
 
 #### 6.  计算机数学 （2本）
 图论
